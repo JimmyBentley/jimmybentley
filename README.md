@@ -2,7 +2,7 @@
  I'm a Data Science student at the University of California San Diego with strong interests in Data Science & Machine Learning. I'm always looking for new opportunies, feel free to reach out to me.
 
 ## Proficient Technologies
-[![My Skills](https://skillicons.dev/icons?i=py,r,d3,js,java,aws,git,docker,pytorch,tensorflow,postgres&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,d3,js,java,aws,git,docker,pytorch,tensorflow,postgres&perline=6)](https://skillicons.dev)
 
 ## Personal Projects
 
