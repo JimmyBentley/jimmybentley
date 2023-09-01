@@ -5,9 +5,8 @@
 [![My Skills](https://skillicons.dev/icons?i=py,r,d3,js,java,aws,git,docker,pytorch,tensorflow,postgres&perline=6)](https://skillicons.dev)
 
 ## Personal Projects
-
-<a href="https://github.com/JimmyBentley/Exploratory-Data-Analysis-On-Stock-Trades-of-Congress-Members" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jimmybentley&repo=Exploratory-Data-Analysis-On-Stock-Trades-of-Congress-Members&theme=dracula" />
+<a href="https://github.com/JimmyBentley/Predicting-Buy-or-Sell-via-Stock-Trades-of-Congress-Members" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jimmybentley&repo=Predicting-Buy-or-Sell-via-Stock-Trades-of-Congress-Members&theme=dracula" />
 </a>
 
 <a href="https://github.com/JimmyBentley/Amazon_Game_Reviews" target="_blank">
